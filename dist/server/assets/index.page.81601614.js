@@ -2,7 +2,7 @@
 exports[Symbol.toStringTag] = "Module";
 var vue = require("vue");
 var serverRenderer = require("@vue/server-renderer");
-var imgUrl = "/ViteSSRRelativeLinks/assets/test.787f7936.jpg";
+var imgUrl = "/assets/test.787f7936.jpg";
 const _sfc_main = {
   __ssrInlineRender: true,
   setup(__props) {
