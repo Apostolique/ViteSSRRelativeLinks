@@ -1,20 +1,15 @@
 <template>
-  <h1>Welcome</h1>
-  This page is:
-  <ul>
-    <li>Rendered to HTML.</li>
-    <li>Interactive. <Counter /></li>
-  </ul>
+  <h1>Home</h1>
 
   <img src="./test.jpg" alt="">
   <br />
-  <a href="./test.jpg">test1</a>
+  <a href="./test.jpg">Test1</a>
   <br />
-  <a href="/pages/index/test.jpg">test2</a>
+  <a href="/pages/index/test.jpg">Test2</a>
+  <br />
+  <a :href="imgUrl">Test3</a>
 </template>
 
-<script>
-import Counter from './Counter.vue'
-const components = { Counter }
-export default { components }
+<script setup>
+import imgUrl from './test.jpg'
 </script>

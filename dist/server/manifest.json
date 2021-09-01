@@ -17,7 +17,7 @@
     "isDynamicEntry": true
   },
   "pages/about/index.page.md": {
-    "file": "assets/index.page.0d7d0f5c.js",
+    "file": "assets/index.page.f75de5be.js",
     "src": "pages/about/index.page.md",
     "isDynamicEntry": true,
     "assets": [
@@ -25,7 +25,7 @@
     ]
   },
   "pages/index/index.page.vue": {
-    "file": "assets/index.page.481d36fa.js",
+    "file": "assets/index.page.81601614.js",
     "src": "pages/index/index.page.vue",
     "isDynamicEntry": true,
     "assets": [
