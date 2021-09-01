@@ -20,7 +20,7 @@ _sfc_main$1.setup = (props, ctx) => {
   (ssrContext.modules || (ssrContext.modules = new Set())).add("renderer/Link.vue");
   return _sfc_setup$1 ? _sfc_setup$1(props, ctx) : void 0;
 };
-var logoUrl = "/assets/logo.bebe2e90.svg";
+var logoUrl = "/ViteSSRRelativeLinks/assets/logo.bebe2e90.svg";
 var PageWrapper_vue_vue_type_style_index_0_lang = "\nbody {\n  margin: 0;\n  font-family: sans-serif;\n}\n* {\n  box-sizing: border-box;\n}\na {\n  text-decoration: none;\n}\n";
 var PageWrapper_vue_vue_type_style_index_1_scoped_true_lang = "\n.layout[data-v-f706a310] {\n  display: flex;\n  max-width: 900px;\n  margin: auto;\n}\n.content[data-v-f706a310] {\n  padding: 20px;\n  border-left: 2px solid #eee;\n  padding-bottom: 50px;\n  min-height: 100vh;\n}\n.navigation[data-v-f706a310] {\n  padding: 20px;\n  flex-shrink: 0;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  line-height: 1.8em;\n}\n.logo[data-v-f706a310] {\n  margin-top: 20px;\n  margin-bottom: 10px;\n}\n";
 const components = { Link: _sfc_main$1 };
