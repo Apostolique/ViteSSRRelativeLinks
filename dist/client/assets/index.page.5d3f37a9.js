@@ -1,1 +1,0 @@
-import{c as o,o as n,F as r,d as a}from"./vendor.34d691ca.js";const e={},l=a("h1",null,"About",-1),s=a("p",null,"A colored page.",-1);e.render=function(a,e){return n(),o(r,null,[l,s],64)};export{e as default};

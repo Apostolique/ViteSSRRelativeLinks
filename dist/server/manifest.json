@@ -5,7 +5,7 @@
     "isEntry": true,
     "dynamicImports": [
       "renderer/_error.page.vue",
-      "pages/about/index.page.vue",
+      "pages/about/index.page.md",
       "pages/index/index.page.vue",
       "renderer/_default.page.client.js",
       "renderer/_default.page.server.js"
@@ -16,12 +16,12 @@
     "src": "renderer/_error.page.vue",
     "isDynamicEntry": true
   },
-  "pages/about/index.page.vue": {
-    "file": "assets/index.page.79aae925.js",
-    "src": "pages/about/index.page.vue",
+  "pages/about/index.page.md": {
+    "file": "assets/index.page.0d7d0f5c.js",
+    "src": "pages/about/index.page.md",
     "isDynamicEntry": true,
-    "css": [
-      "assets/index.page.19bc18da.css"
+    "assets": [
+      "assets/test.787f7936.jpg"
     ]
   },
   "pages/index/index.page.vue": {

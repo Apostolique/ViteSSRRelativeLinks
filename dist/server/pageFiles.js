@@ -4,8 +4,8 @@ exports[Symbol.toStringTag] = "Module";
 const pageFiles = {
   ".page": { "/renderer/_error.page.vue": () => Promise.resolve().then(function() {
     return require("./assets/_error.page.26840699.js");
-  }), "/pages/about/index.page.vue": () => Promise.resolve().then(function() {
-    return require("./assets/index.page.79aae925.js");
+  }), "/pages/about/index.page.md": () => Promise.resolve().then(function() {
+    return require("./assets/index.page.0d7d0f5c.js");
   }), "/pages/index/index.page.vue": () => Promise.resolve().then(function() {
     return require("./assets/index.page.481d36fa.js");
   }) },
