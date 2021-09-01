@@ -1,0 +1,51 @@
+{
+  "node_modules/.pnpm/vite-plugin-ssr@0.2.11_vite@2.5.2/node_modules/vite-plugin-ssr/dist/esm/node/page-files/pageFiles.js": {
+    "file": "pageFiles.js",
+    "src": "node_modules/.pnpm/vite-plugin-ssr@0.2.11_vite@2.5.2/node_modules/vite-plugin-ssr/dist/esm/node/page-files/pageFiles.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "renderer/_error.page.vue",
+      "pages/about/index.page.vue",
+      "pages/index/index.page.vue",
+      "renderer/_default.page.client.js",
+      "renderer/_default.page.server.js"
+    ]
+  },
+  "renderer/_error.page.vue": {
+    "file": "assets/_error.page.26840699.js",
+    "src": "renderer/_error.page.vue",
+    "isDynamicEntry": true
+  },
+  "pages/about/index.page.vue": {
+    "file": "assets/index.page.79aae925.js",
+    "src": "pages/about/index.page.vue",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index.page.19bc18da.css"
+    ]
+  },
+  "pages/index/index.page.vue": {
+    "file": "assets/index.page.481d36fa.js",
+    "src": "pages/index/index.page.vue",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/test.787f7936.jpg"
+    ]
+  },
+  "renderer/_default.page.client.js": {
+    "file": "assets/_default.page.client.23e5f8a7.js",
+    "src": "renderer/_default.page.client.js",
+    "isDynamicEntry": true
+  },
+  "renderer/_default.page.server.js": {
+    "file": "assets/_default.page.server.77638d28.js",
+    "src": "renderer/_default.page.server.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/_default.page.server.64b86f21.css"
+    ],
+    "assets": [
+      "assets/logo.bebe2e90.svg"
+    ]
+  }
+}
